@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjStationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objStationData>
+    <Servertime>2023-04-17T16:57:30</Servertime>
+    <Traincode>A218 </Traincode>
+    <Stationfullname>Mallow</Stationfullname>
+    <Stationcode>MLLOW</Stationcode>
+    <Querytime>16:57:30</Querytime>
+    <Traindate>17 Apr 2023</Traindate>
+    <Origin>Dublin Heuston</Origin>
+    <Destination>Cork</Destination>
+    <Origintime>15:00</Origintime>
+    <Destinationtime>17:37</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed Charleville</Lastlocation>
+    <Duein>14</Duein>
+    <Late>2</Late>
+    <Exparrival>17:09</Exparrival>
+    <Expdepart>17:11</Expdepart>
+    <Scharrival>17:07</Scharrival>
+    <Schdepart>17:09</Schdepart>
+    <Direction>To Cork</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2023-04-17T16:57:30</Servertime>
+    <Traincode>D530 </Traincode>
+    <Stationfullname>Mallow</Stationfullname>
+    <Stationcode>MLLOW</Stationcode>
+    <Querytime>16:57:30</Querytime>
+    <Traindate>17 Apr 2023</Traindate>
+    <Origin>Mallow</Origin>
+    <Destination>Cork</Destination>
+    <Origintime>17:25</Origintime>
+    <Destinationtime>17:50</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>28</Duein>
+    <Late>0</Late>
+    <Exparrival>00:00</Exparrival>
+    <Expdepart>17:25</Expdepart>
+    <Scharrival>00:00</Scharrival>
+    <Schdepart>17:25</Schdepart>
+    <Direction>To Cork</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>O</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2023-04-17T16:57:30</Servertime>
+    <Traincode>A220 </Traincode>
+    <Stationfullname>Mallow</Stationfullname>
+    <Stationcode>MLLOW</Stationcode>
+    <Querytime>16:57:30</Querytime>
+    <Traindate>17 Apr 2023</Traindate>
+    <Origin>Dublin Heuston</Origin>
+    <Destination>Cork</Destination>
+    <Origintime>16:00</Origintime>
+    <Destinationtime>18:37</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed PL102</Lastlocation>
+    <Duein>66</Duein>
+    <Late>-3</Late>
+    <Exparrival>18:01</Exparrival>
+    <Expdepart>18:03</Expdepart>
+    <Scharrival>18:04</Scharrival>
+    <Schdepart>18:06</Schdepart>
+    <Direction>To Cork</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2023-04-17T16:57:30</Servertime>
+    <Traincode>D533 </Traincode>
+    <Stationfullname>Mallow</Stationfullname>
+    <Stationcode>MLLOW</Stationcode>
+    <Querytime>16:57:30</Querytime>
+    <Traindate>17 Apr 2023</Traindate>
+    <Origin>Mallow</Origin>
+    <Destination>Cork</Destination>
+    <Origintime>18:25</Origintime>
+    <Destinationtime>18:50</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>88</Duein>
+    <Late>0</Late>
+    <Exparrival>00:00</Exparrival>
+    <Expdepart>18:25</Expdepart>
+    <Scharrival>00:00</Scharrival>
+    <Schdepart>18:25</Schdepart>
+    <Direction>To Cork</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>O</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2023-04-17T16:57:30</Servertime>
+    <Traincode>A225 </Traincode>
+    <Stationfullname>Mallow</Stationfullname>
+    <Stationcode>MLLOW</Stationcode>
+    <Querytime>16:57:30</Querytime>
+    <Traindate>17 Apr 2023</Traindate>
+    <Origin>Cork</Origin>
+    <Destination>Dublin Heuston</Destination>
+    <Origintime>17:25</Origintime>
+    <Destinationtime>20:04</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed Clondalkin</Lastlocation>
+    <Duein>51</Duein>
+    <Late>0</Late>
+    <Exparrival>17:46</Exparrival>
+    <Expdepart>17:48</Expdepart>
+    <Scharrival>17:46</Scharrival>
+    <Schdepart>17:48</Schdepart>
+    <Direction>To Dublin Heuston</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2023-04-17T16:57:30</Servertime>
+    <Traincode>P525 </Traincode>
+    <Stationfullname>Mallow</Stationfullname>
+    <Stationcode>MLLOW</Stationcode>
+    <Querytime>16:57:30</Querytime>
+    <Traindate>17 Apr 2023</Traindate>
+    <Origin>Cork</Origin>
+    <Destination>Mallow</Destination>
+    <Origintime>16:55</Origintime>
+    <Destinationtime>17:19</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>22</Duein>
+    <Late>0</Late>
+    <Exparrival>17:19</Exparrival>
+    <Expdepart>00:00</Expdepart>
+    <Scharrival>17:19</Scharrival>
+    <Schdepart>00:00</Schdepart>
+    <Direction>To Mallow</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>D</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2023-04-17T16:57:30</Servertime>
+    <Traincode>P527 </Traincode>
+    <Stationfullname>Mallow</Stationfullname>
+    <Stationcode>MLLOW</Stationcode>
+    <Querytime>16:57:30</Querytime>
+    <Traindate>17 Apr 2023</Traindate>
+    <Origin>Cork</Origin>
+    <Destination>Mallow</Destination>
+    <Origintime>17:55</Origintime>
+    <Destinationtime>18:19</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>82</Duein>
+    <Late>0</Late>
+    <Exparrival>18:19</Exparrival>
+    <Expdepart>00:00</Expdepart>
+    <Scharrival>18:19</Scharrival>
+    <Schdepart>00:00</Schdepart>
+    <Direction>To Mallow</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>D</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2023-04-17T16:57:30</Servertime>
+    <Traincode>A310 </Traincode>
+    <Stationfullname>Mallow</Stationfullname>
+    <Stationcode>MLLOW</Stationcode>
+    <Querytime>16:57:30</Querytime>
+    <Traindate>17 Apr 2023</Traindate>
+    <Origin>Mallow</Origin>
+    <Destination>Tralee</Destination>
+    <Origintime>17:25</Origintime>
+    <Destinationtime>18:58</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>28</Duein>
+    <Late>0</Late>
+    <Exparrival>00:00</Exparrival>
+    <Expdepart>17:25</Expdepart>
+    <Scharrival>00:00</Scharrival>
+    <Schdepart>17:25</Schdepart>
+    <Direction>To Tralee</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>O</Locationtype>
+  </objStationData>
+</ArrayOfObjStationData>
